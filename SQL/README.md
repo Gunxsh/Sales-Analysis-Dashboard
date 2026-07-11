@@ -37,7 +37,7 @@ This project answers the following business questions:
 3. Which product category generates the highest sales?
 4. Which category generates the highest profit?
 
-## 🛠️ Tools
+## Tools
 
 - SQL (SQLite)
 - GitHub
